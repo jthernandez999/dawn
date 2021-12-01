@@ -39,6 +39,7 @@
         "df687aad-7482-44d6-82ac-e34a28f32a36": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/girl-2765159_1280.png",
             "image_padding": false,
             "color_scheme": "background-1"
           }
@@ -46,15 +47,17 @@
         "7408d3f5-0e9d-4dd5-87f8-dcdd8e0395c5": {
           "type": "image",
           "settings": {
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "image": "shopify:\/\/shop_images\/img2.jpg",
+            "image_padding": true,
+            "color_scheme": "accent-2"
           }
         },
         "d1b0a60d-9d41-49c3-bd98-f7fc48a1a30f": {
           "type": "image",
           "settings": {
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "image": "shopify:\/\/shop_images\/img3.jpg",
+            "image_padding": true,
+            "color_scheme": "accent-1"
           }
         }
       },
